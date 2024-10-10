@@ -23,8 +23,8 @@ p{
         color: white;
         display: flex;
         flex-direction: column;
-        width: 270px;
-        height: 590px;
+        width: 370px;
+        height: 350px;
         margin: 10px;
     }
     .test1{
@@ -32,7 +32,7 @@ p{
         color: white;
         display: flex;
         flex-direction: column;
-        width: 270px;
+        width: 1000px;
         height: 550px;
         margin: 10px;
     }
