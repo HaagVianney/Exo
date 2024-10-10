@@ -41,44 +41,8 @@ p{
         color: white;
         display: flex;
         flex-direction: column;
-        width: 270px;
+        width: 770px;
         height: 570px;
-        margin: 10px;
-    }
-    .test3{
-        border: solid;
-        color: white;
-        display: flex;
-        flex-direction: column;
-        width: 270px;
-        height: 590px;
-        margin: 10px;
-    }
-    .test4{
-        border: solid;
-        color: white;
-        display: flex;
-        flex-direction: column;
-        width: 270px;
-        height: 670px;
-        margin: 10px;
-    }
-    .test5{
-        border: solid;
-        color: white;
-        display: flex;
-        flex-direction: column;
-        width: 270px;
-        height: 590px;
-        margin: 10px;
-    }
-    .test6{
-        border: solid;
-        color: white;
-        display: flex;
-        flex-direction: column;
-        width: 270px;
-        height: 640px;
         margin: 10px;
     }
 }
@@ -146,7 +110,7 @@ p{
     color: bisque;
 }
 .spectre{
-    font-size: 20px;
+    font-size: 18px;
 }
 .note3{
     font-size: 20px;
